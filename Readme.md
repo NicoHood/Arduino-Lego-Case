@@ -24,26 +24,37 @@ Building Instructions
 
 Also see the .lxf or the html website for more information.
 
+**Step1:**
 ![Step1](Building Instructions [ArduinoCase]-images/Step1.png)
 
+**Step2:**
 ![Step2](Building Instructions [ArduinoCase]-images/Step2.png)
 
+**Step3:**
 ![Step3](Building Instructions [ArduinoCase]-images/Step3.png)
 
+**Step4:**
 ![Step4](Building Instructions [ArduinoCase]-images/Step4.png)
 
+**Step5:**
 ![Step5](Building Instructions [ArduinoCase]-images/Step5.png)
 
+**Step6:**
 ![Step6](Building Instructions [ArduinoCase]-images/Step6.png)
 
+**Step7:**
 ![Step7](Building Instructions [ArduinoCase]-images/Step7.png)
 
+**Step8:**
 ![Step8](Building Instructions [ArduinoCase]-images/Step8.png)
 
+**Step9:**
 ![Step9](Building Instructions [ArduinoCase]-images/Step9.png)
 
+**Step10:**
 ![Step10](Building Instructions [ArduinoCase]-images/Step10.png)
 
+**Step11:**
 ![Step11](Building Instructions [ArduinoCase]-images/Step11.png)
 
 Licence and Copyright
