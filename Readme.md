@@ -16,6 +16,7 @@ But I couldn't find this brick in the LDD. If anyone knows the brick ID, please 
 The other brick is just a bit thinner. Picture of this brick is in the repository.
 
 More Arduino projects + contact:
+
 http://nicohood.wordpress.com/
 
 Building Instructions
@@ -23,27 +24,27 @@ Building Instructions
 
 Also see the .lxf or the html website for more information.
 
-![Step1](Step1.png)
+![Step1](Building Instructions [ArduinoCase]-images/Step1.png)
 
-![Step2](Step2.png)
+![Step2](Building Instructions [ArduinoCase]-images/Step2.png)
 
-![Step3](Step3.png)
+![Step3](Building Instructions [ArduinoCase]-images/Step3.png)
 
-![Step4](Step4.png)
+![Step4](Building Instructions [ArduinoCase]-images/Step4.png)
 
-![Step5](Step5.png)
+![Step5](Building Instructions [ArduinoCase]-images/Step5.png)
 
-![Step6](Step6.png)
+![Step6](Building Instructions [ArduinoCase]-images/Step6.png)
 
-![Step7](Step7.png)
+![Step7](Building Instructions [ArduinoCase]-images/Step7.png)
 
-![Step8](Step8.png)
+![Step8](Building Instructions [ArduinoCase]-images/Step8.png)
 
-![Step9](Step9.png)
+![Step9](Building Instructions [ArduinoCase]-images/Step9.png)
 
-![Step10](Step10.png)
+![Step10](Building Instructions [ArduinoCase]-images/Step10.png)
 
-![Step11](Step11.png)
+![Step11](Building Instructions [ArduinoCase]-images/Step11.png)
 
 Licence and Copyright
 =====================
